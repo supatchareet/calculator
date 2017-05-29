@@ -1,0 +1,15 @@
+{
+    "name": "supatchareet/calculator",
+    "authors": [
+        {
+            "name": "supatchareet",
+            "email": "ree_sd56@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "supatchareet\\Calculator\\": "src/"
+        }
+    }
+}
